@@ -13,4 +13,6 @@
         </feMerge>
     </filter>
     <text id="text1" stroke="#2c2c2c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#filter1)" xml:space="preserve"><tspan x="451" y="279" font-family="Helvetica" font-size="144" font-weight="700" fill="#c7c2c4" xml:space="preserve">Nastya</tspan><tspan font-family="Kailasa" font-size="144" font-weight="700" fill="#c7c2c4" xml:space="preserve"> </tspan><tspan font-family="Helvetica" font-size="144" font-weight="700" fill="#c7c2c4" xml:space="preserve">Zhartun</tspan></text>
+<image href="https://readme-typing-svg.herokuapp.com?font=Open+Sans&amp;weight=700&amp;size=44&amp;pause=1000&amp;color=284D48&amp;center=true&amp;width=700&amp;height=70&amp;lines=Python+Developer" x="340" y="290" width="65%" height="60%" />
+
 </svg>
